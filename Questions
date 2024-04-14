@@ -1,0 +1,80 @@
+Domain 1. Security Principles
+
+1.	When virtual machines are constructed and destroyed in elastic cloud computing environments, the same physical hardware is commonly used by different clients over time. Implications for which of the following data security issues does this have?
+a)	Data Confidentiality 
+b)	Data Integrity
+c)	Data Availability
+d)	Data Authenticity
+Correct Answer: a
+
+2.	What is the purpose of the backup of electronically stored data on hdd?
+a)	Data Confidentiality
+b)	Data Integrity
+c)	Data Availability
+d)	Data Authenticity
+Correct Answer: c
+
+3.	What was the primary purpose of Separation of duties in an organization?
+a)	Data Confidentiality
+b)	Data Integrity
+c)	Data Availability
+d)	Data Authenticity
+Correct Answer: b
+
+4.	The purpose of mandatory vacations as a security measure is to discover which of the following?
+a)	Network administrator fraud
+b)	Vulnerabilities on system
+c)	Comply with Regulation
+d)	Software vulnerabilities in vendor code
+Correct Answer: a
+
+5.	Security professionals with a ISC2 certification are expected to serve first
+a)	Company
+b)	Happy client
+c)	Humanity
+d)	Good security advisor
+Correct Answer: c
+
+6.	What kind of risk response enterprise is used stop or removes the activity or technology that causes the risk in the first place?
+a)	Risk avoidance
+b)	Risk transfer
+c)	Risk acceptance
+d)	Risk mitigation
+Correct Answer: a
+
+7.	Which will be more appropriate risk response when the identified risk is within the organizational risk tolerance?
+a)	Risk avoidance
+b)	Risk transfer
+c)	Risk acceptance
+d)	Risk mitigation
+Correct answer: c
+
+8.	What is the MOST feasible risk response when the cost of anti-malware exceeds the damage probability of computer viruses?
+a)	Risk acceptance
+b)	Risk transfer
+c)	Risk avoidance
+d)	Risk tolerance
+Correct Answer: a
+
+9.	Which of the following is a true statement of identification:
+a)	Process of asserting a identify and having it confirmed.
+b)	Process of validating that the identify being claimed by a user or entity is known to the system.
+c)	The process of granting or denying specific requests
+d)	Process of sender denying his action
+Correct Answer: a
+ 
+
+Domain 2. Business Continuity (BC), Disaster Recovery (DR) & Incident Response Concepts
+
+Domain 3. Access Controls Concepts
+
+Domain 4. Network Security
+
+Domain 5. Security Operations
+
+
+
+
+
+
+Source: https://www.youtube.com/watch?v=0F3QP2Bt1KI&list=PL0hT6hgexlYw-k6GxQf_DIAPdc96T2MP-&index=1
