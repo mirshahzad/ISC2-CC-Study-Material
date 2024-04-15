@@ -62,6 +62,97 @@ b)	Process of validating that the identify being claimed by a user or entity is 
 c)	The process of granting or denying specific requests
 d)	Process of sender denying his action
 Correct Answer: a
+
+10. An assessment of an organization's IT initiatives reveals that projects typically run over budget or on schedule by approximately 50% Management tells the risk practitioner that a variance of 55% is acceptable after a review. This is an illustration of:
+a) Risk acceptance
+b) Risk transfer
+c) Risk mitigation
+d) Risk tolerance
+Correct Answer: d
+
+11. Which of the following is a manner of risk avoidance?
+a) install antivirus
+b) purchase insurance
+c) exit the process that arises risk
+d) Take no action against risk
+Correct Answer: c
+
+12. Risk Officer has recommended several controls such as firewall and anti-malware to protect the enterprise's information systems. Which Risk Response Action has been taken?
+a) Risk transference
+b) Risk mitigation
+c) Risk acceptance
+d) Risk avoidance
+Correct Answer: b
+
+13. Which of the following is a way to implement a technical control to mitigate data loss in case of a mobile device theft?
+a) Disk encryption
+b) Encryption policy
+c) Solid State drive
+d) Mobile Security policy
+Correct Answer: a
+
+14. Firewalls, electronic badge readers, access control lists is an example of which type of control?
+a) Technical control
+b) Administrative Control
+c) Physical control
+d) Generic control
+Correct Answer: a
+
+15. Which controls implemented through a tangible mechanism such as walls, fences, guards, locks?
+a) Technical control
+b) Administrative control
+c) Physical control
+d) Generic control
+Correct answer: c
+
+16. Which controls implemented through policy and procedudre in an organization?
+a) Technical control
+b) Administrative control
+c) Physical control
+d) Generic control
+Correct Answer: b
+
+17. Which of the following is not a Canon of ISC2?
+a) Protect society, the common good, necessary public trust and confidence, and the infrastructure.
+b) Act honorably, honestly, justly, responsibly, and legally.
+c) Provide ditigent and competent service to principals
+d) Provide the profession good job
+Correct Answer: d
+
+18. Which of the following documents identifies the principles and rules governing as organization's protection of informations systems and data?
+a) policy
+b) procedure
+c) guideline
+d) standard
+Correct answer: a
+
+19. Which document help as with strategic direction for security and assign resources for it, implementation with the organization?
+a) policy
+b) procedure
+c) guideline
+d) standard
+Correct Answer: a
+
+20. Which document serve as specifications for the implementation of policy and dictates mandatory requirements?
+a) policy
+b) procedure
+c) guideline
+d) standard
+Correct answer: d
+
+21. When you considering MFA, which of the following will be the least priority for an Enterprise?
+a) Throughput
+b) Acceptability
+c) Accuracy
+d) Competitors
+Correct Answer: d
+
+22. Which of the following things MUST be required for a good decision in an Enterprise?
+a) Good governance
+b) effective roles and responsibilities
+c) effective policies
+d) external audit
+Correct Answer: a
  
 
 Domain 2. Business Continuity (BC), Disaster Recovery (DR) & Incident Response Concepts
