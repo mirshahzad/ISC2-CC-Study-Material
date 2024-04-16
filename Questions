@@ -156,6 +156,134 @@ Correct Answer: a
  
 
 Domain 2. Business Continuity (BC), Disaster Recovery (DR) & Incident Response Concepts
+1. What is the MOST important factor that needs to be considered while finalizing an organizations's recovery strategy?
+a) Conduct BIA and prioritize requirements
+b) finalizing the resources
+c) review business requirement
+d) review regulatory requirements
+Correct Answer: a
+
+2. A user received an email from someone outside the company inquiring about the company's upcoming new launch and business migration. The user has a detailed specs sheet, but it says "confidential" on it NEXT, the user should do which of the following?
+a) Call the help desk or the incident response team to find out what to do next.
+b) Respond to the requester to find out how to reach them, then call them.
+c) reject the request
+d) inform the department and halt the product.
+Correct Answer: a
+
+3. Which of the following is BEST carried out immediately after a security breach is discovered in database?
+a) Risk management
+b) Configuration management
+c) Change management
+d) Incident management
+Correct Answer: d
+
+4. What is the primary goal of the incident management team in the organization?
+a) Reducing the impact and Restore Services
+b) Gathering and analyzing information
+c) Roles and responsibilities for the IR team personnel in each incident type.
+d) Conducting tests and exercises of the IR plan.
+Correct Answer: a
+
+5. Alice is an information security manager working in the organization. His team received an incident ticket from the Oepration Team regarding one system is infected with a major virus. What will be the first step of the team to handle this situation?
+a) finding the root cause of the incident 
+b) Report to Senior Management
+c) Confirm and validate all details associated with tickets
+d) Disconnect the impacted system from the production network
+Correct Answer: c
+
+6. At which particular stage of incident management process we do the following activities?
+(i) Remove the system from the network
+(ii) Update the firewall to reduce impact
+(iii) Move system to quarantine
+a) Mitigation
+b) Reporting
+c) Remediation
+d) Lesson Learned
+Correct Answer: a
+
+7. What is the most important parameter to consider while categorizing and prioritizing an incident?
+a) impact and criticality
+b) confidentiality and integrity
+c) sensitivity and availability
+d) authenticity and visibly
+Correct Answer: a
+
+8. Neha, a member of the finance department at a large corporation, has submitted an incident ticket regarding data breach to the information security team. A company is acquiring incident response and forensic assistance from a managed security service provider to understand the data breach. What is the FIRST step needs to be considered from managing this situation?
+a) Remove the system from the network
+b) Inform the customer about the data breach
+c) Validate and confirm the incident first
+d) Inform senior management about this issue.
+Correct Answer: c
+
+9. After a production outage, which of the following documents contains detailed information on the order in which the system should be restored to service?
+a) Succession planning
+b) Disaster recovery plan
+c) Information Security plan
+d) Change management plan
+Correct Answer: b
+
+10. A network administrator has purchased two devices that will act as failovers for each other. Which of the following concepts does this BEST illustrate?
+a) Authentication
+b) Integrity
+c) COnfidentiality
+d) Availability
+Correct Answer: d
+
+11. A security professional has just finished the Business Impact Analysis (BIA) for their company. What would be the next step for the professional?
+a) prepare the policy and publish a website
+b) select and form the team
+c) prepare and select the recovery strategy
+d) test the plan
+Correct answer: c
+
+12. Which of the following process primary provide the justification for the business continuity plan and its requirements?
+a) BIA
+b) change management
+c) configuration management
+d) release management
+Correct Answer: a
+
+13. Which site is most expensive and extensive IT risk mitigation strategy?
+a) mirror site
+b) hot site
+c) warm site
+d) cold site
+Correct Answer: a
+
+14. What is the True Statement regarding primary difference between a mirrored site and a hot site?
+a) identical configuration different
+b) same configuration / same data
+c) hot site is active active and mirrored site is active passive
+d) hot site configured with no server where mmirrored site configured with only active server no data
+Correct Answer: a
+
+15. Which site required the longest recovery time for business?
+a) mobile site
+b) hot site
+c) warm site
+d) cold site
+Correct Answer: d
+
+16. Which of the following statement define TD? (maximum tolerable downtime)
+a) the amount of time mission/business process can be disrupted without causing significant harm to the organization's mission
+b) the overall length of time an information system's components can be in the recovery phase before negatively impacting the organization's mission or mission/business process
+c) the point in time to which data must be recovered after an outage
+d) the amount of time mission/business process can be disrupted with causing significant harm to the organization's mission.
+Correct answer: a
+
+17. Which of the following true statement define relation of MTD and RTO?
+a) RTO must normally be shorter than the MTD
+b) RTO must normally be higher than the MTD
+c) RTO is more about RPO
+d) RTO can exceed time limit established by the MTD
+Correct Answer: a
+
+18. Which of the following process is an first source for determining resiliency and contingency planning strategies?
+a) BIA
+b) Recovery Strategy
+c) Contingency solutions
+d) BCP policy
+
 
 Domain 3. Access Controls Concepts
 
